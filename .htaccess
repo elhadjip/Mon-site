@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^vues/index\.php$ /Gestion-Scolaire/index.php [L,R=301]
